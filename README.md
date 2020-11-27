@@ -14,7 +14,7 @@ Prerequisites
 
 
 # Usage
-Upon the execution of the FMETFvsPSEI.py script, aN XLSX file is saved containing data for 150 days of the daily change in percent of the FMETF and the PSEI. 
+Upon the execution of the FMETFvsPSEI.py script, an XLSX file is saved containing data for 150 days of the daily change in percent of the FMETF and the PSEI. 
 
 
 # Run Locally
@@ -32,7 +32,10 @@ https://github.com/vaughnfajardo/GrabPSE
 
 # Acknowledgements
 
-Special thanks to Investagrams.com for the data
+Special thanks to Investagrams.com for the data.
+
+
+Tableau Public was used for data visualization.
 
 
 
