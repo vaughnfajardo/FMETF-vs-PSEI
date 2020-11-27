@@ -1,6 +1,8 @@
 # Correlation Between the FMETF and the PSEI
 
-This Python Script looks at the correlation between the First Metro Philippine Equity Exchange Traded Fund and the Philippine Stocks Exchange Index from Investagrams.com. 
+![alt text](https://raw.githubusercontent.com/vaughnfajardo/FMETFvsPSEI/master/FMETFvsPSEI.png)
+
+The FMETFvsPSEI.py Python script looks at the correlation between the First Metro Philippine Equity Exchange Traded Fund and the Philippine Stocks Exchange Index from Investagrams.com. 
 
 # Getting Started
 Prerequisites
