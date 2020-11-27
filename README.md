@@ -16,8 +16,8 @@ Upon the execution of the FMETFvsPSEI.py script, aN XLSX file is saved containin
 
 
 # Run Locally
-* Run this command `git clone https://github.com/vaughnfajardo/`
-* Proceed to the repository's folder `cd FMETFvsPSEI.py`
+* Run this command `git clone https://github.com/vaughnfajardo/FMETFvsPSEI`
+* Proceed to the repository's folder `cd FMETFvsPSEI`
 * Run the Python Script `python3 FMETFvsPSEI.py`
 
 # License
@@ -26,9 +26,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 # Contact
 Vaughn Fajardo – @vaughnfajardo_ – vaughnnephifajardo@gmail.com
 
-
 https://github.com/vaughnfajardo/GrabPSE
 
+# Acknowledgements
+
+Special thanks to Investagrams.com for the data
 
 
 
